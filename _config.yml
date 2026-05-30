@@ -16,7 +16,7 @@ footer:
 author:
   name: "Kris Lamoureux"
   avatar: "https://2.gravatar.com/avatar/a33713ab741271d63c888e\
-           5df8112f227571e4dd5d31162b0920f175e81f78a6?size=256"
+    5df8112f227571e4dd5d31162b0920f175e81f78a6?size=256"
   bio: "Linux Systems Enthusiast"
   links:
     - label: "Gitea"
@@ -28,3 +28,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/krislamo"
+    - label: "Feed"
+      icon: "fas fa-fw fa-rss-square"
+      url: "/feed.xml"
